@@ -1,0 +1,50 @@
+Auto Close Tag
+Auto Rename Tag
+Bootstrap 5 Quick Snippets
+Code Spell Checker
+CSS Flexbox Cheatsheet
+CSS Navigation
+git blame
+IntelliCode
+live server
+Thunder Client
+Highlight Matching Tag
+Bracket Pair Colorization Toggler
+Code Runner
+DotENV
+ESLint
+JavaScript (ES6) code snippets
+Material Icon Theme
+Path Intellisense
+PHP Intelephense
+HTML Boilerplate
+HTML CSS Support
+CSS Formatter
+CSS Peek
+HTML Snippets
+IntelliSense for CSS class names in HTML
+Laravel Artisan
+Laravel Blade Spacer
+Laravel Blade formatter
+Laravel Blade Snippets
+Laravel Extra Intellisense
+Laravel Goto Controller
+Laravel goto view
+Laravel Snippets
+Laravel-goto-components
+Node JSON Autocomplete
+node-snippets
+npm
+Npm Intellisense
+Vscode Google Translate
+------------------
+https://stackoverflow.com/questions/44742642/php-yii-framework-cant-create-post-users-roles
+https://stackoverflow.com/questions/44742642/php-yii-framework-cant-create-post-users-roles
+https://yii2-framework.readthedocs.io/en/stable/guide/tool-debugger/
+
+https://www.yiiframework.com/extension/yiisoft/yii2-debug
+
+matchCallblack gggg
+  $action = Yii::$app->controller->action->id;
+  $controller = Yii::$app->controller->id;
+  
